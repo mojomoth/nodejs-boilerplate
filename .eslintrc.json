@@ -20,7 +20,8 @@
   },
   "parser": "babel-eslint",
   "rules": {
-    "no-console": 0
+    "no-console": "off",
+    "no-unused-vars": "warn"
   },
   "settings": {
     "import/resolver": {
