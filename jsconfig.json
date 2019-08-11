@@ -1,0 +1,11 @@
+/**
+  Editors autocompletion (VS Code)
+*/
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/*"]
+    }
+  }
+}
